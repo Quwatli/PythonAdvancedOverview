@@ -1,3 +1,3 @@
-# PythonOneLiners
+# PythonPractice
 Beginner and advanced Python functionalities
 
